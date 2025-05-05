@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Ravi Kumar Sharma</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/uvraviz007</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/ravi-sharma-6b5b42235/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Motilal Nehru National Institute of Technology Allahabad</td>
+      </tr>
+    </table>
